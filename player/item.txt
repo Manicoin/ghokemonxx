@@ -1,0 +1,6 @@
+HyperPotion
+potion
+200
+7
+
+.
